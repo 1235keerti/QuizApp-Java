@@ -21,12 +21,7 @@ https://user-images.githubusercontent.com/55599023/220412763-49ba87d6-8c1c-477a-
 6. close and run the app again and login as student this time
 7. participate in exam
 8. you will see marks at the end of exam
-
-## How to run this project
-- download Netbeans (8.2 or greater version)
-- clone this repo and open it from netbeans using File->Open Project
-- press the green run button
-
+   
 ## Technology used:
 - Java 8
 - Ant build tools
